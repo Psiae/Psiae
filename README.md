@@ -2,7 +2,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flammky&show_icons=true&title_color=6e9ff4&text_color=37b9ab&bg_color=1a1b27&locale=en&layout=compact" alt="flammky" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flammky&show_icons=true&theme=tokyonight&title_color=6e9ff4&text_color=37b9ab&bg_color=1a1b27&locale=en" alt="flammky" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=flammky&show_icons=true&theme=tokyonight&title_color=6e9ff4&text_color=37b9ab&bg_color=1a1b27&locale=en" alt="flammky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flammky&theme=dark" alt="flammky" /></p>
 

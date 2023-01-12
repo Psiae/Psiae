@@ -9,11 +9,8 @@
        />
 </p>
 
-\
-&nbsp;
-
 <p>
-  <img align="center"
+  <img align="left"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=flammky&show_icons=true&title_color=6e9ff4&text_color=37b9ab&bg_color=1a1b27&locale=en&layout=compact" 
        alt="flammky"
        />

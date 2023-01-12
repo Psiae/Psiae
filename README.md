@@ -20,5 +20,7 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=flammky&theme=dark" alt="flammky" />
 </p>
 
-<a href="https://discord.com/users/569329786334216228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="569329786334216228" height="35" width="35" /></a>
-<a href="https://discord.gg/programming" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94031495/211951198-a76e8404-3856-40c5-9eab-17c236e1239a.png" alt="569329786334216228" height="35" width="35" /></a>
+<p align="left">
+  <a href="https://discord.com/users/569329786334216228" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="569329786334216228" height="35" width="35" /></a>
+<a href="https://discord.gg/programming" target="blank"><img align="left" src="https://user-images.githubusercontent.com/94031495/211951198-a76e8404-3856-40c5-9eab-17c236e1239a.png" alt="569329786334216228" height="35" width="35" /></a>
+</p>

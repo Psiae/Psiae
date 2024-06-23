@@ -22,5 +22,3 @@
   <a href="https://discord.com/users/569329786334216228" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="569329786334216228" height="35" width="35" /></a>
  
 ![Discord Banner 2](https://discordapp.com/api/guilds/244230771232079873/widget.png?style=banner2)
-  
-![Discord Banner 2](https://discordapp.com/api/guilds/1061578981159227402/widget.png?style=banner2)

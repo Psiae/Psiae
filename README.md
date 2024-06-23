@@ -5,12 +5,12 @@
 <p>
   <img
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flammky&show_icons=true&theme=tokyonight&title_color=6e9ff4&text_color=37b9ab&bg_color=1a1b27&locale=en"
-       alt="flammky" width="400"
+       alt="psiae" width="400"
        /> 
   &emsp; 
   <img align="top"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=flammky&show_icons=true&title_color=6e9ff4&text_color=37b9ab&bg_color=1a1b27&locale=en&layout=compact" 
-       alt="flammky"
+       alt="psiae"
        />
 </p>
 

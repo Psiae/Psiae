@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.76023285121624" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="287.76023285121624" y="0" width="170.19140314781484" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.95163599903105" y="0" width="1.6109694672795083" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.5626054663106" y="0" width="0.4055706653665756" height="8" fill="#ec915c"/>
-                    <rect mask="url(#languages-bar)" x="459.9681761316772" y="0" width="0.03182386832285186" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.2421276065001" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="287.2421276065001" y="0" width="170.71319642169846" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.9553240281985" y="0" width="1.608068956247094" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.5633929844456" y="0" width="0.4048404453262753" height="8" fill="#ec915c"/>
+                    <rect mask="url(#languages-bar)" x="459.9682334297719" y="0" width="0.03176657022810869" height="8" fill="#6e4a7e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>62.56%</div>
+                                <div>62.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -72,7 +72,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>37%</div>
+                                <div>37.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
